@@ -1,232 +1,124 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml" refresh="3600"
 
-#EXTINF:-1 tvg-id="AEHD" tvg-name="A&E HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/538.png" group-title="Documentarios",A&E HD
+#EXTINF:-1 tvg-id="AEHD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/463.png",A&E HD
 http://200.115.112.44:4848/play/a0bn
 
-#EXTINF:-1 tvg-id="AMCHD" tvg-name="AMC HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/514.png" group-title="Filmes",AMC HD
-http://200.115.112.44:4848/play/a0b7
-
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/471.png" group-title="Documentarios",Animal Planet HD
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-logo="https://digitalapi.sky.com.br/logos/channels/476.png",Animal Planet HD
 http://200.115.112.44:4848/play/a0az
 
-#EXTINF:-1 tvg-id="Arte1" tvg-name="Arte 1 HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/583.png" group-title="Cultura",Arte 1 HD
-http://200.115.112.44:4848/play/a0ae
-
-#EXTINF:-1 tvg-id="AXNHD" tvg-name="AXN HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/545.png" group-title="Series",AXN HD
+#EXTINF:-1 tvg-id="AXNHD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/461.png",AXN HD
 http://200.115.112.44:4848/play/a0d2
 
-#EXTINF:-1 tvg-id="BandHD" tvg-name="Band HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/413.png" group-title="Abertos",Band HD
+#EXTINF:-1 tvg-id="BandHD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/411.png",Band HD
 http://200.115.112.44:4848/play/a0bz
 
-#EXTINF:-1 tvg-id="BandNewsHD" tvg-name="BandNews HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/571.png" group-title="Noticias",BandNews HD
-http://200.115.112.44:4848/play/a0ag
-
-#EXTINF:-1 tvg-id="BandSportsHD" tvg-name="BandSports HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/610.png" group-title="Esportes",BandSports HD
+#EXTINF:-1 tvg-id="BANDSPORTSHD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/436.png",BandSports HD
 http://200.115.112.44:4848/play/a06s
 
-#EXTINF:-1 tvg-id="BISHD" tvg-name="Bis HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/560.png" group-title="Variedades",Bis HD
-http://200.115.112.44:4848/play/a0cd
-
-#EXTINF:-1 tvg-id="CanalBrasilHD" tvg-name="Canal Brasil HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/513.png" group-title="Filmes",Canal Brasil HD
-http://200.115.112.44:4848/play/a0ad
-
-#EXTINF:-1 tvg-id="CanalOffHD" tvg-name="Canal Off HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/561.png" group-title="Variedades",Canal Off HD
+#EXTINF:-1 tvg-id="CanalOffHD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/433.png",Canal Off HD
 http://200.115.112.44:4848/play/a06t
 
-#EXTINF:-1 tvg-id="CartoonNetworkHD" tvg-name="Cartoon Network HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/460.png" group-title="Infantis",Cartoon Network HD
+#EXTINF:-1 tvg-id="CARTOONHD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/423.png",Cartoon Network HD
 http://200.115.112.44:4848/play/a0by
 
-#EXTINF:-1 tvg-id="CinemaxHD" tvg-name="Cinemax HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/535.png" group-title="Filmes",Cinemax HD
+#EXTINF:-1 tvg-id="CinemaxHD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/456.png",Cinemax HD
 http://200.115.112.44:4848/play/a0c9
 
-#EXTINF:-1 tvg-id="CNNBrasilHD" tvg-name="CNN Brasil HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/577.png" group-title="Noticias",CNN Brasil HD
-http://200.115.112.44:4848/play/a0ay
-
-#EXTINF:-1 tvg-id="DiscoveryHD" tvg-name="Discovery Channel HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/470.png" group-title="Documentarios",Discovery Channel HD
+#EXTINF:-1 tvg-id="DiscoveryHD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/475.png",Discovery Channel HD
 http://200.115.112.44:4848/play/a06c
 
-#EXTINF:-1 tvg-id="DiscoveryHH" tvg-name="Discovery Home & Health HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/455.png" group-title="Variedades",Discovery Home & Health HD
-http://200.115.112.44:4848/play/a0bs
-
-#EXTINF:-1 tvg-id="DiscoveryKidsHD" tvg-name="Discovery Kids HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/450.png" group-title="Infantis",Discovery Kids HD
-http://200.115.112.44:4848/play/a06a
-
-#EXTINF:-1 tvg-id="DiscoveryScience" tvg-name="Discovery Science HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/474.png" group-title="Documentarios",Discovery Science HD
-http://200.115.112.44:4848/play/a0b1
-
-#EXTINF:-1 tvg-id="DiscoveryTheater" tvg-name="Discovery Theater HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/472.png" group-title="Documentarios",Discovery Theater HD
-http://200.115.112.44:4848/play/a0b6
-
-#EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-name="Discovery Turbo HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/473.png" group-title="Documentarios",Discovery Turbo HD
-http://200.115.112.44:4848/play/a0bp
-
-#EXTINF:-1 tvg-id="DiscoveryWorld" tvg-name="Discovery World HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/475.png" group-title="Documentarios",Discovery World HD
-http://200.115.112.44:4848/play/a0bo
-
-#EXTINF:-1 tvg-id="EEntertainment" tvg-name="E! Entertainment HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/484.png" group-title="Variedades",E! Entertainment HD
-http://200.115.112.44:4848/play/a0bx
-
-#EXTINF:-1 tvg-id="ESPNHD" tvg-name="ESPN HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/597.png" group-title="Esportes",ESPN HD
-http://46.151.196.223:14432/ESPN
-
-#EXTINF:-1 tvg-id="ESPN2HD" tvg-name="ESPN 2 HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/598.png" group-title="Esportes",ESPN 2 HD
-http://46.151.196.223:14438/ESPN2
-
-#EXTINF:-1 tvg-id="ESPN3HD" tvg-name="ESPN 3 HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/599.png" group-title="Esportes",ESPN 3 HD
-http://46.151.196.223:14444/ESPN3
-
-#EXTINF:-1 tvg-id="ESPN4HD" tvg-name="ESPN 4 HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/600.png" group-title="Esportes",ESPN 4 HD
-http://46.151.196.223:14450/ESPN4
-
-#EXTINF:-1 tvg-id="ESPN5HD" tvg-name="ESPN 5 HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/601.png" group-title="Esportes",ESPN 5 HD
-http://46.151.196.223:14456/ESPN5
-
-#EXTINF:-1 tvg-id="ESPN6HD" tvg-name="ESPN 6 HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/602.png" group-title="Esportes",ESPN 6 HD
-http://46.151.196.223:14468/ESPN6
-
-#EXTINF:-1 tvg-id="FoodNetwork" tvg-name="Food Network HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/492.png" group-title="Variedades",Food Network HD
-http://200.115.112.44:4848/play/a0c7
-
-#EXTINF:-1 tvg-id="GloboRJ" tvg-name="Globo RJ HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/405.png" group-title="Abertos",Globo RJ HD
-http://79.127.238.228:14217/
-
-#EXTINF:-1 tvg-id="GloboSP" tvg-name="Globo SP HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/30405.png" group-title="Abertos",Globo SP HD
-http://79.127.238.228:14211/
-
-#EXTINF:-1 tvg-id="GloboNewsHD" tvg-name="GloboNews HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/440.png" group-title="Noticias",GloboNews HD
-http://200.115.112.44:4848/play/a0c8
-
-#EXTINF:-1 tvg-id="GloobHD" tvg-name="Gloob HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/457.png" group-title="Infantis",Gloob HD
-http://200.115.112.44:4848/play/a0bg
-
-#EXTINF:-1 tvg-id="GNTHD" tvg-name="GNT HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/441.png" group-title="Variedades",GNT HD
-http://200.115.112.44:4848/play/a0c2
-
-#EXTINF:-1 tvg-id="HBO2HD" tvg-name="HBO 2 HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/521.png" group-title="Filmes",HBO 2 HD
-http://200.115.112.44:4848/play/a08k
-
-#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Family HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/523.png" group-title="Filmes",HBO Family HD
-http://200.115.112.44:4848/play/a0ba
-
-#EXTINF:-1 tvg-id="HBOHD" tvg-name="HBO HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/520.png" group-title="Filmes",HBO HD
-http://200.115.112.44:4848/play/a0bl
-
-#EXTINF:-1 tvg-id="HBOMundi" tvg-name="HBO Mundi HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/524.png" group-title="Filmes",HBO Mundi HD
-http://200.115.112.44:4848/play/a0bd
-
-#EXTINF:-1 tvg-id="HBOPop" tvg-name="HBO Pop HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/525.png" group-title="Filmes",HBO Pop HD
-http://200.115.112.44:4848/play/a0ct
-
-#EXTINF:-1 tvg-id="HBOSignature" tvg-name="HBO Signature HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/522.png" group-title="Filmes",HBO Signature HD
-http://200.115.112.44:4848/play/a0bf
-
-#EXTINF:-1 tvg-id="HBOXtreme" tvg-name="HBO Xtreme HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/526.png" group-title="Filmes",HBO Xtreme HD
-http://200.115.112.44:4848/play/a0cs
-
-#EXTINF:-1 tvg-id="HGTVHD" tvg-name="HGTV HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/490.png" group-title="Variedades",HGTV HD
-http://200.115.112.44:4848/play/a065
-
-#EXTINF:-1 tvg-id="History2HD" tvg-name="History 2 HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/477.png" group-title="Documentarios",History 2 HD
-http://200.115.112.44:4848/play/a0br
-
-#EXTINF:-1 tvg-id="HistoryHD" tvg-name="History HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/476.png" group-title="Documentarios",History HD
-http://200.115.112.44:4848/play/a06d
-
-#EXTINF:-1 tvg-id="IDHD" tvg-name="Investigação Discovery HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/549.png" group-title="Documentarios",ID: Investigação Discovery HD
+#EXTINF:-1 tvg-id="DiscoveryIDHD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/478.png",Discovery ID HD
 http://200.115.112.44:4848/play/a0c6
 
-#EXTINF:-1 tvg-id="LifetimeHD" tvg-name="Lifetime HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/541.png" group-title="Filmes",Lifetime HD
-http://200.115.112.44:4848/play/a0bt
+#EXTINF:-1 tvg-id="ESPNHD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/597.png",ESPN HD
+http://46.151.196.223:14432/ESPN
 
-#EXTINF:-1 tvg-id="MegapixHD" tvg-name="Megapix HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/452.png" group-title="Filmes",Megapix HD
+#EXTINF:-1 tvg-id="ESPN2HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/598.png",ESPN 2 HD
+http://46.151.196.223:14438/ESPN2
+
+#EXTINF:-1 tvg-id="ESPN3HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/599.png",ESPN 3 HD
+http://46.151.196.223:14444/ESPN3
+
+#EXTINF:-1 tvg-id="ESPN4HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/600.png",ESPN 4 HD
+http://46.151.196.223:14450/ESPN4
+
+#EXTINF:-1 tvg-id="ESPN5HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/601.png",ESPN 5 HD
+http://46.151.196.223:14456/ESPN5
+
+#EXTINF:-1 tvg-id="ESPN6HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/602.png",ESPN 6 HD
+http://46.151.196.223:14468/ESPN6
+
+#EXTINF:-1 tvg-id="FoodNetworkHD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/492.png",Food Network HD
+http://200.115.112.44:4848/play/a0c7
+
+#EXTINF:-1 tvg-id="GETVHD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/13920.png",GE TV HD
+http://200.115.112.44:4848/play/a0c1
+
+#EXTINF:-1 tvg-id="GloboRJ" tvg-logo="https://digitalapi.sky.com.br/logos/channels/405.png",Globo RJ HD
+http://79.127.238.228:14217/
+
+#EXTINF:-1 tvg-id="GloboSP" tvg-logo="https://digitalapi.sky.com.br/logos/channels/30405.png",Globo SP HD
+http://79.127.238.228:14211/
+
+#EXTINF:-1 tvg-id="GloboNewsHD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/440.png",GloboNews HD
+http://200.115.112.44:4848/play/a0c8
+
+#EXTINF:-1 tvg-id="GNTHD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/441.png",GNT HD
+http://200.115.112.44:4848/play/a0c2
+
+#EXTINF:-1 tvg-id="MegapixHD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/472.png",Megapix HD
 http://200.115.112.44:4848/play/a0ca
 
-#EXTINF:-1 tvg-id="ModoViagem" tvg-name="Modo Viagem HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/554.png" group-title="Variedades",Modo Viagem HD
+#EXTINF:-1 tvg-id="ModoViagemHD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/434.png",Modo Viagem HD
 http://200.115.112.44:4848/play/a06r
 
-#EXTINF:-1 tvg-id="MultishowHD" tvg-name="Multishow HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/442.png" group-title="Variedades",Multishow HD
-http://200.115.112.44:4848/play/a0ax
-
-#EXTINF:-1 tvg-id="NickJr" tvg-name="Nick Jr. HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/466.png" group-title="Infantis",Nick Jr. HD
-http://200.115.112.44:4848/play/a0cz
-
-#EXTINF:-1 tvg-id="PremiereClubes" tvg-name="Premiere Clubes HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/632.png" group-title="Esportes",Premiere Clubes HD
-http://200.115.112.44:4848/play/a0cc
-
-#EXTINF:-1 tvg-id="Premiere2" tvg-name="Premiere 2 HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/633.png" group-title="Esportes",Premiere 2 HD
+#EXTINF:-1 tvg-id="Premiere2" tvg-logo="https://digitalapi.sky.com.br/logos/channels/633.png",Premiere 2 HD
 http://79.127.243.211:14481/PREMIERE
 
-#EXTINF:-1 tvg-id="Premiere3" tvg-name="Premiere 3 HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/634.png" group-title="Esportes",Premiere 3 HD
+#EXTINF:-1 tvg-id="Premiere3" tvg-logo="https://digitalapi.sky.com.br/logos/channels/634.png",Premiere 3 HD
 http://79.127.243.211:14485/PREMIERE3
 
-#EXTINF:-1 tvg-id="Premiere4" tvg-name="Premiere 4 HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/635.png" group-title="Esportes",Premiere 4 HD
+#EXTINF:-1 tvg-id="Premiere4" tvg-logo="https://digitalapi.sky.com.br/logos/channels/635.png",Premiere 4 HD
 http://79.127.243.211:14489/PREMIERE4
 
-#EXTINF:-1 tvg-id="Premiere5" tvg-name="Premiere 5 HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/636.png" group-title="Esportes",Premiere 5 HD
+#EXTINF:-1 tvg-id="Premiere5" tvg-logo="https://digitalapi.sky.com.br/logos/channels/636.png",Premiere 5 HD
 http://79.127.243.211:14493/PREMIERE5
 
-#EXTINF:-1 tvg-id="Premiere6" tvg-name="Premiere 6 HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/637.png" group-title="Esportes",Premiere 6 HD
+#EXTINF:-1 tvg-id="Premiere6" tvg-logo="https://digitalapi.sky.com.br/logos/channels/637.png",Premiere 6 HD
 http://79.127.243.211:14497/PREMIERE6
 
-#EXTINF:-1 tvg-id="Premiere7" tvg-name="Premiere 7 HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/638.png" group-title="Esportes",Premiere 7 HD
+#EXTINF:-1 tvg-id="Premiere7" tvg-logo="https://digitalapi.sky.com.br/logos/channels/638.png",Premiere 7 HD
 http://79.127.243.211:14501/PREMIERE7
 
-#EXTINF:-1 tvg-id="RecordHD" tvg-name="Record HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/407.png" group-title="Abertos",Record HD
+#EXTINF:-1 tvg-id="RecordHD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/407.png",Record HD
 http://200.115.112.44:4848/play/a0be
 
-#EXTINF:-1 tvg-id="RedeTV" tvg-name="RedeTV! HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/415.png" group-title="Abertos",RedeTV! HD
+#EXTINF:-1 tvg-id="RedeTVHD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/408.png",RedeTV HD
 http://200.115.112.44:4848/play/a0c3
 
-#EXTINF:-1 tvg-id="SBTHD" tvg-name="SBT HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/409.png" group-title="Abertos",SBT HD
+#EXTINF:-1 tvg-id="SBTHD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/409.png",SBT HD
 https://aovivo.maissbt.com/channel_1080.m3u8
 
-#EXTINF:-1 tvg-id="SonyHD" tvg-name="Sony Channel HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/537.png" group-title="Series",Sony Channel HD
-http://200.115.112.44:4848/play/a069
-
-#EXTINF:-1 tvg-id="SpaceHD" tvg-name="Space HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/510.png" group-title="Filmes",Space HD
+#EXTINF:-1 tvg-id="SpaceHD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/458.png",Space HD
 http://200.115.112.44:4848/play/a06v
 
-#EXTINF:-1 tvg-id="SporTVHD" tvg-name="SporTV HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/439.png" group-title="Esportes",SporTV HD
-http://46.151.196.223:14286/
-
-#EXTINF:-1 tvg-id="SporTV2HD" tvg-name="SporTV 2 HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/438.png" group-title="Esportes",SporTV 2 HD
+#EXTINF:-1 tvg-id="SporTV2HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/438.png",SporTV 2 HD
 http://79.127.243.211:14469/
 
-#EXTINF:-1 tvg-id="SporTV3HD" tvg-name="SporTV 3 HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/437.png" group-title="Esportes",SporTV 3 HD
+#EXTINF:-1 tvg-id="SporTV3HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/437.png",SporTV 3 HD
 http://79.127.243.211:14473/
 
-#EXTINF:-1 tvg-id="StudioUniversalHD" tvg-name="Studio Universal HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/511.png" group-title="Filmes",Studio Universal HD
+#EXTINF:-1 tvg-id="StudioUniversalHD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/451.png",Studio Universal HD
 http://200.115.112.44:4848/play/a0c5
 
-#EXTINF:-1 tvg-id="TelecineActionHD" tvg-name="Telecine Action HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/502.png" group-title="Filmes",Telecine Action HD
-http://200.115.112.44:4848/play/a0ac
-
-#EXTINF:-1 tvg-id="TelecineCultHD" tvg-name="Telecine Cult HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/505.png" group-title="Filmes",Telecine Cult HD
-http://200.115.112.44:4848/play/a0cr
-
-#EXTINF:-1 tvg-id="TelecineFunHD" tvg-name="Telecine Fun HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/504.png" group-title="Filmes",Telecine Fun HD
-http://200.115.112.44:4848/play/a0al
-
-#EXTINF:-1 tvg-id="TelecinePipocaHD" tvg-name="Telecine Pipoca HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/503.png" group-title="Filmes",Telecine Pipoca HD
-http://200.115.112.44:4848/play/a0at
-
-#EXTINF:-1 tvg-id="TelecinePremiumHD" tvg-name="Telecine Premium HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/500.png" group-title="Filmes",Telecine Premium HD
-http://200.115.112.44:4848/play/a0av
-
-#EXTINF:-1 tvg-id="TelecineTouchHD" tvg-name="Telecine Touch HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/501.png" group-title="Filmes",Telecine Touch HD
-http://200.115.112.44:4848/play/a0au
-
-#EXTINF:-1 tvg-id="TLCHD" tvg-name="TLC HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/456.png" group-title="Variedades",TLC HD
-http://200.115.112.44:4848/play/a0bu
-
-#EXTINF:-1 tvg-id="TNTHD" tvg-name="TNT HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/508.png" group-title="Filmes",TNT HD
+#EXTINF:-1 tvg-id="TNTHD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/464.png",TNT HD
 http://200.115.112.44:4848/play/a06u
 
-#EXTINF:-1 tvg-id="TNTSeriesHD" tvg-name="TNT Series HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/540.png" group-title="Series",TNT Series HD
-http://200.115.112.44:4848/play/a0bw
+#EXTINF:-1 tvg-id="TNTNovelasHD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/13925.png",TNT Novelas HD
+http://200.115.112.44:4848/play/a0b9
 
-#EXTINF:-1 tvg-id="UniversalHD" tvg-name="Universal TV HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/543.png" group-title="Series",Universal TV HD
-http://200.115.112.44:4848/play/a0cb
+#EXTINF:-1 tvg-id="USAHD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/460.png",USA Network HD
+http://200.115.112.44:4848/play/a0c0
 
-#EXTINF:-1 tvg-id="WarnerHD" tvg-name="Warner Channel HD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/539.png" group-title="Filmes",Warner Channel HD
+#EXTINF:-1 tvg-id="WarnerHD" tvg-logo="https://digitalapi.sky.com.br/logos/channels/465.png",Warner Channel HD
 http://200.115.112.44:4848/play/a06x
