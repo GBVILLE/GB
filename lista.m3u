@@ -189,8 +189,6 @@ http://200.115.112.44:4848/play/a0cc
 
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.svg",Premiere 2 HD
 http://79.127.243.211:14481
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.svg",Premiere 2 (Alt) HD
-http://200.115.112.44:4848/play/a0ap
 
 #EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.svg",Premiere 3 HD
 http://79.127.243.211:14485
@@ -202,10 +200,11 @@ http://79.127.243.211:14489
 #EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.svg",Premiere 4 (Alt) HD
 http://200.115.112.44:4848/play/a0cx
 
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.svg",Premiere 5 HD
-http://79.127.243.211:14493
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.svg",Premiere 5 (Alt) HD
+#EXTINF:-1 tvg-id="SporTV4.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/sportv-4.svg",SporTV 4 / Premiere 5 HD
 http://200.115.112.44:4848/play/a0bj
+
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.svg",Premiere 5 (Alt) HD
+http://79.127.243.211:14493
 
 #EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.svg",Premiere 6 HD
 http://79.127.243.211:14501
