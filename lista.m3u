@@ -31,6 +31,9 @@ http://200.115.112.44:4848/play/a0cd
 #EXTINF:-1 tvg-id="Bis.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/bis.svg",Bis (Alt) HD
 http://79.127.243.211:14286
 
+#EXTINF:-1 tvg-id="BoaVontadeTV.br",Boa Vontade TV
+http://200.115.112.44:4848/play/a0cf
+
 #EXTINF:-1 tvg-id="CanalBrasil.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/canal-brasil.svg",Canal Brasil HD
 http://200.115.112.44:4848/play/a0ad
 
@@ -62,8 +65,6 @@ http://200.115.112.44:4848/play/a0bs
 
 #EXTINF:-1 tvg-id="DiscoveryKids.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/discovery-kids.svg",Discovery Kids HD
 http://200.115.112.44:4848/play/a06a
-#EXTINF:-1 tvg-id="DiscoveryKids.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/discovery-kids.svg",Discovery Kids (Alt) HD
-http://167.114.21.14:13220
 
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/discovery-science.svg",Discovery Science HD
 http://200.115.112.44:4848/play/a0b1
@@ -78,97 +79,43 @@ http://200.115.112.44:4848/play/a0bp
 http://200.115.112.44:4848/play/a0bo
 
 #EXTINF:-1 tvg-id="DisneyChannel.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/disney-channel.svg",Disney Channel HD
-http://167.114.21.14:13221
-
-#EXTINF:-1 tvg-id="DogTV.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/dog-tv.svg",Dog TV HD
-http://79.127.243.211:14149
+http://200.115.112.44:4848/play/a0al
 
 #EXTINF:-1 tvg-id="E.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/e.svg",E! Entertainment HD
 http://200.115.112.44:4848/play/a0bx
 
 #EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn.svg",ESPN HD
 http://200.115.112.44:4848/play/a0b2
-#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn.svg",ESPN (Alt) HD
-http://46.151.196.223:14432/ESPN
 
 #EXTINF:-1 tvg-id="ESPN2.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn-2.svg",ESPN 2 HD
 http://200.115.112.44:4848/play/a066
-#EXTINF:-1 tvg-id="ESPN2.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn-2.svg",ESPN 2 (Alt 1) HD
-http://79.127.243.211:14506
-#EXTINF:-1 tvg-id="ESPN2.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn-2.svg",ESPN 2 (Alt 2) HD
-http://46.151.196.223:14438/ESPN2
 
 #EXTINF:-1 tvg-id="ESPN3.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn-3.svg",ESPN 3 HD
 http://200.115.112.44:4848/play/a067
-#EXTINF:-1 tvg-id="ESPN3.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn-3.svg",ESPN 3 (Alt 1) HD
-http://79.127.243.211:14510
-#EXTINF:-1 tvg-id="ESPN3.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn-3.svg",ESPN 3 (Alt 2) HD
-http://46.151.196.223:14444/ESPN3
 
 #EXTINF:-1 tvg-id="ESPN4.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn-4.svg",ESPN 4 HD
 http://200.115.112.44:4848/play/a0di
-#EXTINF:-1 tvg-id="ESPN4.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn-4.svg",ESPN 4 (Alt) HD
-http://46.151.196.223:14450/ESPN4
 
-#EXTINF:-1 tvg-id="ESPN5.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn-5.svg",ESPN 5 HD
-http://46.151.196.223:14456/ESPN5
-
-#EXTINF:-1 tvg-id="ESPN6.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/espn-6.svg",ESPN 6 HD
-http://46.151.196.223:14468/ESPN6
+#EXTINF:-1 tvg-id="FilmandArts.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/film-arts.svg",Film & Arts
+http://200.115.112.44:4848/play/a0b5
 
 #EXTINF:-1 tvg-id="FoodNetwork.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/food-network.svg",Food Network HD
 http://200.115.112.44:4848/play/a0c7
 
-#EXTINF:-1 tvg-id="GETV.br",GE TV HD
-http://79.127.243.211:14497/GETV
-
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/globo.svg",Globo RJ HD
-http://79.127.238.228:14217/
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/globo.svg",Globo (EPTV) [Alt] HD
-http://79.127.243.211:14027
-
-#EXTINF:-1 tvg-id="GloboSP.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/globo.svg",Globo SP HD
-http://79.127.238.228:14211/
-
 #EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/globonews.svg",GloboNews HD
 http://200.115.112.44:4848/play/a0c8
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/globonews.svg",GloboNews (Alt) HD
-http://79.127.243.211:14254
 
 #EXTINF:-1 tvg-id="Gloob.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/gloob.svg",Gloob HD
 http://200.115.112.44:4848/play/a0bg
-#EXTINF:-1 tvg-id="Gloob.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/gloob.svg",Gloob (Alt) HD
-http://79.127.243.211:14436/GLOOB
 
 #EXTINF:-1 tvg-id="GNT.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/gnt.svg",GNT HD
 http://200.115.112.44:4848/play/a0c2
-#EXTINF:-1 tvg-id="GNT.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/gnt.svg",GNT (Alt) HD
-http://79.127.243.211:14312
 
 #EXTINF:-1 tvg-id="HBO.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/hbo.svg",HBO HD
 http://200.115.112.44:4848/play/a0bl
-#EXTINF:-1 tvg-id="HBO.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/hbo.svg",HBO (Alt) HD
-http://79.127.243.211:14668/HBO
 
 #EXTINF:-1 tvg-id="HBO2.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/hbo-2.svg",HBO 2 HD
 http://200.115.112.44:4848/play/a08k
-#EXTINF:-1 tvg-id="HBO2.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/hbo-2.svg",HBO 2 (Alt) HD
-http://79.127.243.211:14660/HBO2
-
-#EXTINF:-1 tvg-id="HBOFamily.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/hbo-family.svg",HBO Family HD
-http://200.115.112.44:4848/play/a0ba
-
-#EXTINF:-1 tvg-id="HBOMundi.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/hbo-mundi.svg",HBO Mundi HD
-http://200.115.112.44:4848/play/a0bd
-
-#EXTINF:-1 tvg-id="HBOPop.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/hbo-pop.svg",HBO Pop HD
-http://200.115.112.44:4848/play/a0ct
-
-#EXTINF:-1 tvg-id="HBOSignature.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/hbo-signature.svg",HBO Signature HD
-http://200.115.112.44:4848/play/a0bf
-
-#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/hbo-xtreme.svg",HBO Xtreme HD
-http://200.115.112.44:4848/play/a0cs
 
 #EXTINF:-1 tvg-id="HGTV.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/hgtv.svg",HGTV HD
 http://200.115.112.44:4848/play/a065
@@ -176,14 +123,8 @@ http://200.115.112.44:4848/play/a065
 #EXTINF:-1 tvg-id="History.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/the-history-channel.svg",History HD
 http://200.115.112.44:4848/play/a06d
 
-#EXTINF:-1 tvg-id="History2.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/history-2.svg",History 2 HD
-http://200.115.112.44:4848/play/a0br
-
-#EXTINF:-1 tvg-id="InvestigacaoDiscovery.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/investigacao-discovery.svg",ID: Investigação Discovery HD
+#EXTINF:-1 tvg-id="InvestigacaoDiscovery.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/investigacao-discovery.svg",ID HD
 http://200.115.112.44:4848/play/a0c6
-
-#EXTINF:-1 tvg-id="JPNews.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/jovem-pan-news.svg",JP News HD
-http://79.127.243.211:14258
 
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/lifetime.svg",Lifetime HD
 http://200.115.112.44:4848/play/a0bt
@@ -200,56 +141,20 @@ http://200.115.112.44:4848/play/a0ax
 #EXTINF:-1 tvg-id="NickJr.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/nick-jr.svg",Nick Jr. HD
 http://200.115.112.44:4848/play/a0cz
 
-#EXTINF:-1 tvg-id="Paramount.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/paramount-network.svg",Paramount+ HD
-http://79.127.243.211:14653
-#EXTINF:-1 tvg-id="Paramount.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/paramount-network.svg",Paramount+ (Alt 1) HD
-http://79.127.243.211:14657
-#EXTINF:-1 tvg-id="Paramount.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/paramount-network.svg",Paramount+ (Alt 2) HD
-http://79.127.243.211:14658
-
 #EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.svg",Premiere Clubes HD
 http://200.115.112.44:4848/play/a0cc
 
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.svg",Premiere 2 HD
-http://79.127.243.211:14481
-
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.svg",Premiere 3 HD
-http://200.115.112.44:4848/play/a0bi
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.svg",Premiere 3 (Alt) HD
-http://79.127.243.211:14485
-
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.svg",Premiere 4 HD
-http://200.115.112.44:4848/play/a0cx
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.svg",Premiere 4 (Alt) HD
-http://79.127.243.211:14489
-
-#EXTINF:-1 tvg-id="SporTV4.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/sportv-4.svg",SporTV 4 / Premiere 5 HD
-http://200.115.112.44:4848/play/a0bj
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.svg",Premiere 5 (Alt) HD
-http://79.127.243.211:14493
-
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.svg",Premiere 6 HD
+#EXTINF:-1 tvg-id="Premiere2.br",Premiere (Alt a0c1)
 http://200.115.112.44:4848/play/a0c1
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.svg",Premiere 6 (Alt) HD
-http://79.127.243.211:14501
 
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="https://mondrian.claro.com.br/channels/default/premiere.svg",Premiere 7 HD
+#EXTINF:-1 tvg-id="Premiere3.br",Premiere (Alt a0d0)
 http://200.115.112.44:4848/play/a0d0
 
 #EXTINF:-1 tvg-id="RecordTVBrasil.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/record-tv.svg",Record HD
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-id="RecordTVBrasil.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/record-tv.svg",Record (Alt 1) HD
 http://200.115.112.44:4848/play/a0be
-#EXTINF:-1 tvg-id="RecordTVBrasil.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/record-tv.svg",Record (Alt 2) HD
-http://79.127.243.211:14223
 
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/redetv.svg",RedeTV! HD
 http://200.115.112.44:4848/play/a0c3
-
-#EXTINF:-1 tvg-id="SBTBrasil.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/sbt.svg",SBT HD
-https://aovivo.maissbt.com/channel_1080.m3u8
-#EXTINF:-1 tvg-id="SBTBrasil.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/sbt.svg",SBT (Alt) HD
-http://79.127.243.211:14095
 
 #EXTINF:-1 tvg-id="SonyChannel.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/sony-channel.svg",Sony Channel HD
 http://200.115.112.44:4848/play/a069
@@ -258,25 +163,13 @@ http://200.115.112.44:4848/play/a069
 http://200.115.112.44:4848/play/a06v
 
 #EXTINF:-1 tvg-id="SporTV.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/sportv.svg",SporTV HD
-http://46.151.196.223:14286/
-
-#EXTINF:-1 tvg-id="SporTV2.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/sportv-2.svg",SporTV 2 HD
-http://79.127.243.211:14469/
-
-#EXTINF:-1 tvg-id="SporTV3.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/sportv-3.svg",SporTV 3 HD
-http://79.127.243.211:14473/
+http://200.115.112.44:4848/play/a0b4
 
 #EXTINF:-1 tvg-id="StudioUniversal.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/studio-universal.svg",Studio Universal HD
 http://200.115.112.44:4848/play/a0c5
 
 #EXTINF:-1 tvg-id="TelecineAction.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/telecine-action.svg",Telecine Action HD
 http://200.115.112.44:4848/play/a0ac
-
-#EXTINF:-1 tvg-id="TelecineCult.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/telecine-cult.svg",Telecine Cult HD
-http://200.115.112.44:4848/play/a0cr
-
-#EXTINF:-1 tvg-id="TelecineFun.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/telecine-fun.svg",Telecine Fun HD
-http://200.115.112.44:4848/play/a0al
 
 #EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/telecine-pipoca.svg",Telecine Pipoca HD
 http://200.115.112.44:4848/play/a0at
@@ -286,13 +179,9 @@ http://200.115.112.44:4848/play/a0av
 
 #EXTINF:-1 tvg-id="TelecineTouch.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/telecine-touch.svg",Telecine Touch HD
 http://200.115.112.44:4848/play/a0au
-#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/telecine-touch.svg",Telecine Touch (Alt) HD
-http://79.127.243.211:14652
 
 #EXTINF:-1 tvg-id="TLC.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/tlc.svg",TLC HD
 http://200.115.112.44:4848/play/a0bu
-#EXTINF:-1 tvg-id="TLC.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/tlc.svg",TLC (Alt) HD
-http://79.127.238.228:14433
 
 #EXTINF:-1 tvg-id="TNT.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/tnt.svg",TNT HD
 http://200.115.112.44:4848/play/a06u
@@ -303,9 +192,6 @@ http://200.115.112.44:4848/play/a0b9
 #EXTINF:-1 tvg-id="TNTSeries.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/tnt-series.svg",TNT Series HD
 http://200.115.112.44:4848/play/a0bw
 
-#EXTINF:-1 tvg-id="Cultura.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/tv-cultura.svg",TV Cultura HD
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-
 #EXTINF:-1 tvg-id="Universal.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/universal-tv.svg",Universal TV HD
 http://200.115.112.44:4848/play/a0cb
 
@@ -314,3 +200,6 @@ http://200.115.112.44:4848/play/a0c0
 
 #EXTINF:-1 tvg-id="WarnerChannel.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/warner-channel.svg",Warner Channel HD
 http://200.115.112.44:4848/play/a06x
+
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/woohoo.svg",Woohoo
+http://200.115.112.44:4848/play/a0b0
