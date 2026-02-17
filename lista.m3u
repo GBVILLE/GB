@@ -132,6 +132,9 @@ http://200.115.112.44:4848/play/a0b5
 #EXTINF:-1 tvg-id="FoodNetwork.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/food-network.svg",Food Network HD
 http://200.115.112.44:4848/play/a0c7
 
+#EXTINF:-1 tvg-id="Futura.br" tvg-logo="http://i.imgur.com/MraSC5y.png",Futura HD
+http://brasil.listaiptv.com:25461/live/giova31/2020/1813.m3u8
+
 #EXTINF:-1 tvg-id="GETV.br",GE TV HD
 http://79.127.243.211:14497/GETV
 
@@ -288,6 +291,9 @@ https://aovivo.maissbt.com/channel_1080.m3u8
 #EXTINF:-1 tvg-id="SBTBrasil.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/sbt.svg",SBT (Alt) HD
 http://79.127.243.211:14095
 
+#EXTINF:-1 tvg-id="SBTBrasil.br" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png",SBT RS (Alt 2)
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist
+
 #EXTINF:-1 tvg-id="SonyChannel.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/sony-channel.svg",Sony Channel HD
 http://200.115.112.44:4848/play/a069
 
@@ -347,6 +353,9 @@ http://200.115.112.44:4848/play/a0bw
 
 #EXTINF:-1 tvg-id="Cultura.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/tv-cultura.svg",TV Cultura HD
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 tvg-id="Cultura.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/tv-cultura.svg",TV Cultura (Alt) HD
+http://192.163.17.27:8081/live/megatv/tv-cultura/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Universal.br" tvg-logo="https://mondrian.claro.com.br/brands/channels/universal-tv.svg",Universal TV HD
 http://200.115.112.44:4848/play/a0cb
